@@ -1,0 +1,7 @@
+{
+  "name": "911-lava-cake-box",
+  "private": true,
+  "dependencies": {
+    "@vercel/functions": "^3.10.4"
+  }
+}
